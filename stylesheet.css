@@ -14,10 +14,10 @@ img {
   width: 100%; 
 }
 
-details {
+.details {
   width: 30%;
 }
 
-profile {
+.profile {
   width: 70%;
 }
