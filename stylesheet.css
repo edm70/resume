@@ -23,12 +23,13 @@ a {
 .details {
   width: 30%;
   padding: 25px;
+  background-color: #bb9292;
 }
 
 .profile {
   width: 70%;
   padding: 50px;
-  background-color; #ffefdf
+  background-color: #ffefdf;
 }
 
 label {
